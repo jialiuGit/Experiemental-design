@@ -17,7 +17,7 @@ intensity function of the point process.
 
 # Installing the toolbox
 
-Clone (or download the source doce)  this “Experimental-design” repository and add the folder(s) to your Matlab path
+Clone (or download the source doce) from this “Experimental-design”  repository and add the folder(s) to your Matlab path
 or run install_design.m in the root directory of Experimental-design.
 
 
