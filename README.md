@@ -23,7 +23,7 @@ or run install_design.m in the root directory of Experimental-design.
 
 
 # Dependence toolbox
-If you want to evaluate the design under the Gaussian process models, a dependency toolbox need to be installed, 
+If you want to evaluate the design under the Gaussian process (GP) models, a dependency toolbox need to be installed, 
 please see https://research.cs.aalto.fi/pml/software/gpstuff/  for more details inclduing right contact person(s), License
 and etc.
 
@@ -34,7 +34,7 @@ and etc.
 2. A loss/utility function is intruduced for evaluating the design with the GP models, example code files are in the 'gp_design' folder.
 There is a demo,  demo_evaluate_design.m,  in the folder.
 
-3. Evaluating design under the Gaussian process model required a dependence toolbox, gpstuff.
+3. Evaluating design under the GP required a dependence toolbox, gpstuff. 
   
 
    
