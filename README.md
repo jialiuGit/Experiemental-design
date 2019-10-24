@@ -1,4 +1,4 @@
-# Experiemental-design
+# Experimental-design
 Maintainer: Jia Liu (jia.liu@fmi.fi)
 
 # Reference
