@@ -1,5 +1,5 @@
 # Experimental-design
-Maintainer: Jia Liu (jia.liu@fmi.fi)
+Maintainer: Jia Liu (jia.liu@anu.edu.au)
 
 # Reference
 If you use Experimental-design, please use the following reference:
